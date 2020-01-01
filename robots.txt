@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmochuic.docfile.xyz/sitemap.xml
